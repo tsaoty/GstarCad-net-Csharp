@@ -1,0 +1,6 @@
+E:\060_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\01_cmdHello\cmdClasses\bin\x64\Debug\cmdClasses.dll
+E:\060_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\01_cmdHello\cmdClasses\bin\x64\Debug\cmdClasses.pdb
+E:\060_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\01_cmdHello\cmdClasses\obj\x64\Debug\cmdClasses.csproj.AssemblyReference.cache
+E:\060_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\01_cmdHello\cmdClasses\obj\x64\Debug\cmdClasses.csproj.CoreCompileInputs.cache
+E:\060_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\01_cmdHello\cmdClasses\obj\x64\Debug\cmdClasses.dll
+E:\060_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\01_cmdHello\cmdClasses\obj\x64\Debug\cmdClasses.pdb
