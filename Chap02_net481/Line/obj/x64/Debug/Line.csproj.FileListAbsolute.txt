@@ -1,0 +1,5 @@
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\Line\bin\x64\Debug\Line.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\Line\bin\x64\Debug\Line.pdb
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\Line\obj\x64\Debug\Line.csproj.CoreCompileInputs.cache
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\Line\obj\x64\Debug\Line.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\Line\obj\x64\Debug\Line.pdb
