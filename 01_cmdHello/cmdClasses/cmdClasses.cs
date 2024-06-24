@@ -20,7 +20,7 @@ namespace cmdClasses
         {
             try
             {
-                Application.DocumentManager.MdiActiveDocument.Editor.WriteMessage("Hello .net C# - tty from VS2019");
+                Application.DocumentManager.MdiActiveDocument.Editor.WriteMessage("Hello .net C# - tty from VS2019-88");
             }
             catch (System.Exception ex)
             {

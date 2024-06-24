@@ -1,0 +1,5 @@
+E:\061_GstarCAD-prog\01.gc.cs\Chap01\InitAndOpt\bin\x64\Debug\InitAndOpt.dll
+E:\061_GstarCAD-prog\01.gc.cs\Chap01\InitAndOpt\bin\x64\Debug\InitAndOpt.pdb
+E:\061_GstarCAD-prog\01.gc.cs\Chap01\InitAndOpt\obj\x64\Debug\InitAndOpt.csproj.CoreCompileInputs.cache
+E:\061_GstarCAD-prog\01.gc.cs\Chap01\InitAndOpt\obj\x64\Debug\InitAndOpt.dll
+E:\061_GstarCAD-prog\01.gc.cs\Chap01\InitAndOpt\obj\x64\Debug\InitAndOpt.pdb

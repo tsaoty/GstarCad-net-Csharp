@@ -1,2 +1,57 @@
-
-	1nd prog
+    #using Autodesk.AutoCAD.ApplicationServices;
+    #using Autodesk.AutoCAD.DatabaseServices;
+    #using Autodesk.AutoCAD.EditorInput;
+    #using Autodesk.AutoCAD.Runtime;
+    #using Autodesk.AutoCAD.Colors;
+	
+	using GrxCAD.ApplicationServices;
+	using GrxCAD.DatabaseServices;
+	using GrxCAD.EditorInput;
+	using GrxCAD.Runtime;
+	using GrxCAD.Colors;
+	
+    using System.IO;
+    using System.Reflection;
+     
+    namespace LoadX
+    {
+        public class LoadX
+        {
+            private Action cmd;
+            [CommandMethod("DD")]
+            public void ReloadX()
+            {
+                #region Hello
+                string dllName = "test.dll";
+                string className = "test.cmd";
+                string methodName = "hello";
+                #endregion
+     
+                #region
+                var adapterFileInfo = new FileInfo(Assembly.GetExecutingAssembly().Location);
+                var targetFilePath = Path.Combine(adapterFileInfo.DirectoryName, dllName);
+                var targetAssembly = Assembly.Load(File.ReadAllBytes(targetFilePath));
+                var targetType = targetAssembly.GetType(className);
+                var targetMethod = targetType.GetMethod(methodName);
+                var targetObject = Activator.CreateInstance(targetType);
+                cmd = () => targetMethod.Invoke(targetObject, null);
+     
+                try
+                {
+                    cmd?.Invoke();
+                }
+                catch(System.Exception ex)
+                {
+                    System.Windows.Forms.MessageBox.Show(ex.Message, "Tips");
+                }
+                #endregion
+            }
+        }
+     
+        public class CmdInfo
+        {
+            public string DllName { get; set; }
+            public string ClassName { get; set; }
+            public string MethodName { get; set; }
+        }
+    }
