@@ -61,7 +61,7 @@ namespace Lines
         {
             Database db = HostApplicationServices.WorkingDatabase;
             Point3d startPoint = new Point3d(0, 100, 0);
-            double angle = GeTools.DegreeToRadian(60);
+            double angle = GeTools.DegreeToRadian(120);
             Line line = new Line(startPoint, startPoint.PolarPoint(angle, 100));
             AddToModelSpace(db, line);
         }
