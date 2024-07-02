@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotNetARX</name>
+    </assembly>
+    <members>
+        <member name="M:DotNetARX.GeTools.MidPoint(GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)">
+            <summary>
+            計算兩個點的中點 
+            </summary>
+            <param name="pt1">第1點</param>
+            <param name="pt2">第2點</param>
+            <returns>點1,2的中點</returns>
+        </member>
+        <member name="M:DotNetARX.GeTools.PolarPoint(GrxCAD.Geometry.Point3d,System.Double,System.Double)">
+            <summary>
+            將極座标轉換為Point3d物件 
+            </summary>
+            <param name="point">輸入：點</param>
+            <param name="angle">輸入：角度</param>
+            <param name="dist">輸入：距離</param>
+            <returns>傳回：3d點物件</returns>
+        </member>
+        <member name="M:DotNetARX.GeTools.DegreeToRadian(System.Double)">
+            <summary>
+            角度轉弧度
+            </summary>
+            <param name="degree">角度</param>
+            <returns>弧度</returns>
+        </member>
+        <member name="M:DotNetARX.Tools.AddToModelSpace(GrxCAD.DatabaseServices.Database,GrxCAD.DatabaseServices.Entity)">
+            <summary>
+            將實體新增到模型空間
+            </summary>
+            <param name="db">數據庫 Database</param>
+            <param name="ent">要增加的實體</param>
+            <returns>傳回新增模型空間的實體物件 ObjectId</returns>
+        </member>
+    </members>
+</doc>

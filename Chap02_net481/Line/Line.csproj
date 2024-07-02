@@ -70,5 +70,11 @@
     <Compile Include="Lines.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetARX\DotNetARX.csproj">
+      <Project>{1e0020c7-0fc0-4c8c-b822-a6d495fec9d9}</Project>
+      <Name>DotNetARX</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
