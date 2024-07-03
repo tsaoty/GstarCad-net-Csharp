@@ -19,7 +19,7 @@
     <!-- SHFB properties -->
     <FrameworkVersion>.NET Framework 4.8</FrameworkVersion>
     <OutputPath>.\Help\</OutputPath>
-    <HtmlHelpName>DotNetARX</HtmlHelpName>
+    <HtmlHelpName>ty_DotNetARX</HtmlHelpName>
     <Language>en-US</Language>
     <DocumentationSources>
       <DocumentationSource sourceFile="bin\x64\Debug\DotNetARX.xml" />

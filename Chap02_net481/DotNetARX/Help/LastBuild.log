@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2024.2.18.0" projectFile="E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\DotNetARX.shfbproj" started="2024/7/2 下午 12:27:15">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2024.2.18.0" projectFile="E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\DotNetARX.shfbproj" started="2024/7/3 下午 05:00:10">
 <buildStep step="Initializing">
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder&#39;
 Locating components in the following folder(s):
@@ -27,17 +27,17 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, 英文 (美國))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0190
+</plugIn>    Last step completed in 00:00:00.0130
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0230
+    Last step completed in 00:00:00.0180
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
-[C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateRefInfo-bbed6f08-96b8-42df-9ba1-2c2b36f8d043.proj]
-已經開始建置於 2024/7/2 下午 12:27:17。
-節點 1 (預設目標) 上的專案 &quot;E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\GenerateRefInfo-bbed6f08-96b8-42df-9ba1-2c2b36f8d043.proj&quot;。
+[C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateRefInfo-7f92c599-aef1-401d-9b07-653dcd0ba5fa.proj]
+已經開始建置於 2024/7/3 下午 05:00:11。
+節點 1 (預設目標) 上的專案 &quot;E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\GenerateRefInfo-7f92c599-aef1-401d-9b07-653dcd0ba5fa.proj&quot;。
 PrepareForBuild:
   正在建立目錄 &quot;obj\Debug\&quot;。
 GenerateBindingRedirects:
@@ -47,36 +47,36 @@ GenerateRefInfo:
   c Microsoft Corporation. All rights reserved.
   No source code context base path specified.  Source context information is unavailable.
   Loaded 1 assemblies for reflection and 1 dependency assemblies.
-  Wrote information on 1 namespaces, 2 types, and 4 members
+  Wrote information on 1 namespaces, 3 types, and 21 members
   Merging duplicate type and member information
   Merged 0 duplicate type(s) and 0 duplicate member(s)
-專案 &quot;E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\GenerateRefInfo-bbed6f08-96b8-42df-9ba1-2c2b36f8d043.proj&quot; (預設目標) 建置完成。
-    Last step completed in 00:00:02.2456
+專案 &quot;E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\GenerateRefInfo-7f92c599-aef1-401d-9b07-653dcd0ba5fa.proj&quot; (預設目標) 建置完成。
+    Last step completed in 00:00:00.8768
 </buildStep>
 <buildStep step="ApplyDocumentModel">
 Applying document model to reflection output...
-    Last step completed in 00:00:00.1229
+    Last step completed in 00:00:00.0660
 </buildStep>
 <buildStep step="AddApiTopicFilenames">
 Adding topic filenames to API members...
-    Last step completed in 00:00:00.0740
+    Last step completed in 00:00:00.0250
 </buildStep>
 <buildStep step="GenerateApiTopicManifest">
 Generating API topic manifest...
-    Last step completed in 00:00:00.0380
+    Last step completed in 00:00:00.0310
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0390
+    Last step completed in 00:00:00.0290
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00.0060
+    Last step completed in 00:00:00.0040
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file for API content...
@@ -85,50 +85,110 @@ Generating conceptual content intermediate TOC file...
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
-    Last step completed in 00:00:00.7016
+    Last step completed in 00:00:00.4307
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0280
+    Last step completed in 00:00:00.0200
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\BuildAssembler.config
   Updating reference topic configurations.
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00.1069
+    Last step completed in 00:00:00.0760
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 Loading configuration...
 Processing topics...
 SHFB: Warning BE0066: ShowMissingComponent: [N:DotNetARX] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:DotNetARX.GeTools] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.ArrayPolar(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Int32,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.ArrayPolar(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Int32,System.Double)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.ArrayPolar(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Int32,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectIdCollection&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.ArrayPolar(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Int32,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.ArrayRectang(GrxCAD.DatabaseServices.ObjectId,System.Int32,System.Int32,System.Double,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.ArrayRectang(GrxCAD.DatabaseServices.ObjectId,System.Int32,System.Int32,System.Double,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectIdCollection&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.ArrayRectang(GrxCAD.DatabaseServices.ObjectId,System.Int32,System.Int32,System.Double,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Copy(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Erase(GrxCAD.DatabaseServices.ObjectId)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Erase(GrxCAD.DatabaseServices.ObjectId)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.GetAllEntsExtent(GrxCAD.DatabaseServices.Database)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Database&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.GetAllEntsExtent(GrxCAD.DatabaseServices.Database)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Extents3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.GetAllEntsExtent(GrxCAD.DatabaseServices.Database)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Database&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Mirror(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d,System.Boolean)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Move(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Move(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Move(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Move(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Move(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Move(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Move(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Move(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Offset(GrxCAD.DatabaseServices.Entity,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Offset(GrxCAD.DatabaseServices.Entity,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.DBObjectCollection&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Offset(GrxCAD.DatabaseServices.Entity,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Offset(GrxCAD.DatabaseServices.ObjectId,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Offset(GrxCAD.DatabaseServices.ObjectId,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectIdCollection&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Offset(GrxCAD.DatabaseServices.ObjectId,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Rotate(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Rotate(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Rotate(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Rotate(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Rotate(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Rotate(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Scale(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Scale(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Scale(GrxCAD.DatabaseServices.Entity,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Scale(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Scale(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.EntTools.Scale(GrxCAD.DatabaseServices.ObjectId,GrxCAD.Geometry.Point3d,System.Double)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.GeTools.MidPoint(GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.GeTools.MidPoint(GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.GeTools.MidPoint(GrxCAD.Geometry.Point3d,GrxCAD.Geometry.Point3d)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.GeTools.PolarPoint(GrxCAD.Geometry.Point3d,System.Double,System.Double)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.GeTools.PolarPoint(GrxCAD.Geometry.Point3d,System.Double,System.Double)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.GeTools.PolarPoint(GrxCAD.Geometry.Point3d,System.Double,System.Double)] Unknown reference link target &#39;T:GrxCAD.Geometry.Point3d&#39;.
-SHFB: Warning BE0066: ShowMissingComponent: [T:DotNetARX.Tools] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.Tools.AddToModelSpace(GrxCAD.DatabaseServices.Database,GrxCAD.DatabaseServices.Entity)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Database&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.Tools.AddToModelSpace(GrxCAD.DatabaseServices.Database,GrxCAD.DatabaseServices.Entity)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.Tools.AddToModelSpace(GrxCAD.DatabaseServices.Database,GrxCAD.DatabaseServices.Entity)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectId&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.Tools.AddToModelSpace(GrxCAD.DatabaseServices.Database,GrxCAD.DatabaseServices.Entity)] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Database&#39;.
-Processed 9 topic(s)
-13 warning(s)
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.Tools.AddToModelSpace(GrxCAD.DatabaseServices.Database,GrxCAD.DatabaseServices.Entity[])] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Database&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.Tools.AddToModelSpace(GrxCAD.DatabaseServices.Database,GrxCAD.DatabaseServices.Entity[])] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Entity&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.Tools.AddToModelSpace(GrxCAD.DatabaseServices.Database,GrxCAD.DatabaseServices.Entity[])] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.ObjectIdCollection&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:DotNetARX.Tools.AddToModelSpace(GrxCAD.DatabaseServices.Database,GrxCAD.DatabaseServices.Entity[])] Unknown reference link target &#39;T:GrxCAD.DatabaseServices.Database&#39;.
+Processed 35 topic(s)
+73 warning(s)
 CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 2 of 15.
 CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
-    Last step completed in 00:00:08.7394
+    Last step completed in 00:00:06.5440
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 Processing Help 1 files in E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1
-Processed 9 HTML files.  Sorting keywords and generating See Also indices.
-Saving HTML Help 1 keyword index to E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\Documentation.hhk
-Saving HTML Help 1 table of contents to E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\Documentation.hhc
-    Last step completed in 00:00:00.2524
+Processed 35 HTML files.  Sorting keywords and generating See Also indices.
+Saving HTML Help 1 keyword index to E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\ty_DotNetARX.hhk
+Saving HTML Help 1 table of contents to E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\ty_DotNetARX.hhc
+    Last step completed in 00:00:00.2119
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -191,11 +251,11 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\VS2013
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-zh-CN.css -&gt; E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\styles\branding-zh-CN.css
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-zh-TW.css -&gt; E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\styles\branding-zh-TW.css
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding.css -&gt; E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\styles\branding.css
-    Last step completed in 00:00:00.2139
+    Last step completed in 00:00:00.1459
 </buildStep>
 <buildStep step="GenerateHelpProject">
 Generating HTML Help 1 project file...
-    Last step completed in 00:00:00.0150
+    Last step completed in 00:00:00.0110
 </buildStep>
 <buildStep step="CompilingHelpFile">
 Compiling HTML Help 1 file...
@@ -204,17 +264,17 @@ Compiling HTML Help 1 file...
   
   
   
-  Compiling e:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\Documentation.chm
+  Compiling e:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\ty_DotNetARX.chm
   
   
   
   
   
-  Compile time: 0 minutes, 1 second
+  Compile time: 0 minutes, 0 seconds
   
-  11	Topics
+  37	Topics
   
-  80	Local links
+  311	Local links
   
   0	Internet links
   
@@ -224,19 +284,19 @@ Compiling HTML Help 1 file...
   
   
   
-  Created e:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\Documentation.chm, 52,623 bytes
+  Created e:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\Help\Working\Output\HtmlHelp1\ty_DotNetARX.chm, 79,854 bytes
   
-  Compression decreased file by 82,952 bytes.
+  Compression decreased file by 209,893 bytes.
   
-    Last step completed in 00:00:03.0016
+    Last step completed in 00:00:01.9813
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.0460
+    Last step completed in 00:00:00.0440
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 2024/7/2 下午 12:27:32.  Total time: 00:00:16.8197
+Build completed successfully at 2024/7/3 下午 05:00:21.  Total time: 00:00:11.2073
 
 </buildStep>
 </shfbBuild>
