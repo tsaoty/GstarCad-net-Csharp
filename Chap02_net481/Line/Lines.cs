@@ -1,7 +1,7 @@
 ﻿using GrxCAD.Runtime;
 using GrxCAD.DatabaseServices;
 using GrxCAD.Geometry;
-using DotNetARX;
+using gsDotNetARX;
 
 namespace Lines
 {

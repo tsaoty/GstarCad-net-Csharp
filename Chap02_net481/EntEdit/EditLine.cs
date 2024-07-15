@@ -4,7 +4,7 @@ using GrxCAD.DatabaseServices;
 using GrxCAD.Geometry;
 using GrxCAD.EditorInput;
 using System;
-using DotNetARX;
+using gsDotNetARX;
 
 namespace EntEdit
 {
@@ -19,8 +19,9 @@ namespace EntEdit
             //第一事務處理
             using (Transaction tr1=tm.StartTransaction())
             {
-                Point3d ptStart = Point3d.Origin;
-                Point3d ptEnd = new Point3d(100, 0, 0);
+                //Point3d ptStart = Point3d.Origin;
+                Point3d ptStart = new Point3d(0, 100, 0);
+                Point3d ptEnd = new Point3d(100, 100, 0);
                 Line line1 = new Line(ptStart, ptEnd);
                 ObjectId id1 = db.AddToModelSpace(line1);
                 //第二事務處理

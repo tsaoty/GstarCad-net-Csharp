@@ -1,8 +1,0 @@
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\bin\x64\Debug\DotNetARX.xml
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\bin\x64\Debug\DotNetARX.dll
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\bin\x64\Debug\DotNetARX.pdb
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\bin\x64\Debug\gmdb.dll
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\obj\x64\Debug\DotNetARX.csproj.CoreCompileInputs.cache
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\obj\x64\Debug\DotNetARX.csproj.CopyComplete
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\obj\x64\Debug\DotNetARX.dll
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap02_net481\DotNetARX\obj\x64\Debug\DotNetARX.pdb

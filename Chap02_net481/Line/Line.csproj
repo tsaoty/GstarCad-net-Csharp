@@ -57,6 +57,10 @@
       <HintPath>..\..\..\..\grxsdk_2023\arx\inc\gmdb.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="gsDotNetARX">
+      <HintPath>..\..\..\gsDotNetARX\bin\x64\Debug\gsDotNetARX.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -69,12 +73,6 @@
   <ItemGroup>
     <Compile Include="Lines.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DotNetARX\DotNetARX.csproj">
-      <Project>{1e0020c7-0fc0-4c8c-b822-a6d495fec9d9}</Project>
-      <Name>DotNetARX</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
