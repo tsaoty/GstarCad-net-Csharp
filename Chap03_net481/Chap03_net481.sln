@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.34902.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interactive", "Interactive\Interactive.csproj", "{B13B9791-BE34-47F0-AF1A-CAD0EBBB6B0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSelection", "NetSelection\NetSelection.csproj", "{CF48D45C-BE34-4B68-B58E-C5F30A35CF1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestPoints", "HighestPoints\HighestPoints.csproj", "{74F34AE5-2504-4461-B72B-BA1947B00C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSnap", "CustomSnap\CustomSnap.csproj", "{FD84445D-5688-4CAD-BBBF-E8586DA5336E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,30 @@ Global
 		{B13B9791-BE34-47F0-AF1A-CAD0EBBB6B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B13B9791-BE34-47F0-AF1A-CAD0EBBB6B0B}.Release|x64.ActiveCfg = Release|x64
 		{B13B9791-BE34-47F0-AF1A-CAD0EBBB6B0B}.Release|x64.Build.0 = Release|x64
+		{CF48D45C-BE34-4B68-B58E-C5F30A35CF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF48D45C-BE34-4B68-B58E-C5F30A35CF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF48D45C-BE34-4B68-B58E-C5F30A35CF1C}.Debug|x64.ActiveCfg = Debug|x64
+		{CF48D45C-BE34-4B68-B58E-C5F30A35CF1C}.Debug|x64.Build.0 = Debug|x64
+		{CF48D45C-BE34-4B68-B58E-C5F30A35CF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF48D45C-BE34-4B68-B58E-C5F30A35CF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF48D45C-BE34-4B68-B58E-C5F30A35CF1C}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF48D45C-BE34-4B68-B58E-C5F30A35CF1C}.Release|x64.Build.0 = Release|Any CPU
+		{74F34AE5-2504-4461-B72B-BA1947B00C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F34AE5-2504-4461-B72B-BA1947B00C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F34AE5-2504-4461-B72B-BA1947B00C26}.Debug|x64.ActiveCfg = Debug|x64
+		{74F34AE5-2504-4461-B72B-BA1947B00C26}.Debug|x64.Build.0 = Debug|x64
+		{74F34AE5-2504-4461-B72B-BA1947B00C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F34AE5-2504-4461-B72B-BA1947B00C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F34AE5-2504-4461-B72B-BA1947B00C26}.Release|x64.ActiveCfg = Release|Any CPU
+		{74F34AE5-2504-4461-B72B-BA1947B00C26}.Release|x64.Build.0 = Release|Any CPU
+		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Debug|x64.ActiveCfg = Debug|x64
+		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Debug|x64.Build.0 = Debug|x64
+		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Release|x64.ActiveCfg = Release|Any CPU
+		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

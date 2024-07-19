@@ -1,9 +1,0 @@
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap03_net481\Interactive\bin\x64\Debug\Interactive.dll
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap03_net481\Interactive\bin\x64\Debug\gsDotNetARX.dll
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap03_net481\Interactive\bin\x64\Debug\Interactive.pdb
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap03_net481\Interactive\bin\x64\Debug\gsDotNetARX.pdb
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap03_net481\Interactive\obj\x64\Debug\Interactive.csproj.AssemblyReference.cache
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap03_net481\Interactive\obj\x64\Debug\Interactive.csproj.CoreCompileInputs.cache
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap03_net481\Interactive\obj\x64\Debug\Interactive.csproj.CopyComplete
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap03_net481\Interactive\obj\x64\Debug\Interactive.dll
-E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap03_net481\Interactive\obj\x64\Debug\Interactive.pdb
