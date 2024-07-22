@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestPoints", "HighestPoi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSnap", "CustomSnap\CustomSnap.csproj", "{FD84445D-5688-4CAD-BBBF-E8586DA5336E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseTip", "MouseTip\MouseTip.csproj", "{628D7E2C-059E-4986-8D1E-3B7A19E7D7EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commands", "Commands\Commands.csproj", "{56DDA4F9-3300-4458-A529-405858D868C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,22 @@ Global
 		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Release|x64.ActiveCfg = Release|Any CPU
 		{FD84445D-5688-4CAD-BBBF-E8586DA5336E}.Release|x64.Build.0 = Release|Any CPU
+		{628D7E2C-059E-4986-8D1E-3B7A19E7D7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628D7E2C-059E-4986-8D1E-3B7A19E7D7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628D7E2C-059E-4986-8D1E-3B7A19E7D7EE}.Debug|x64.ActiveCfg = Debug|x64
+		{628D7E2C-059E-4986-8D1E-3B7A19E7D7EE}.Debug|x64.Build.0 = Debug|x64
+		{628D7E2C-059E-4986-8D1E-3B7A19E7D7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628D7E2C-059E-4986-8D1E-3B7A19E7D7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628D7E2C-059E-4986-8D1E-3B7A19E7D7EE}.Release|x64.ActiveCfg = Release|Any CPU
+		{628D7E2C-059E-4986-8D1E-3B7A19E7D7EE}.Release|x64.Build.0 = Release|Any CPU
+		{56DDA4F9-3300-4458-A529-405858D868C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DDA4F9-3300-4458-A529-405858D868C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DDA4F9-3300-4458-A529-405858D868C7}.Debug|x64.ActiveCfg = Debug|x64
+		{56DDA4F9-3300-4458-A529-405858D868C7}.Debug|x64.Build.0 = Debug|x64
+		{56DDA4F9-3300-4458-A529-405858D868C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DDA4F9-3300-4458-A529-405858D868C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56DDA4F9-3300-4458-A529-405858D868C7}.Release|x64.ActiveCfg = Release|Any CPU
+		{56DDA4F9-3300-4458-A529-405858D868C7}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
