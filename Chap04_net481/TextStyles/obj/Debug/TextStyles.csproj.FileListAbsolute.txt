@@ -1,0 +1,9 @@
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\TextStyles\bin\Debug\TextStyles.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\TextStyles\bin\Debug\TextStyles.pdb
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\TextStyles\bin\Debug\gsDotNetARX.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\TextStyles\bin\Debug\gsDotNetARX.pdb
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\TextStyles\obj\Debug\TextStyles.csproj.AssemblyReference.cache
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\TextStyles\obj\Debug\TextStyles.csproj.CoreCompileInputs.cache
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\TextStyles\obj\Debug\TextStyles.csproj.CopyComplete
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\TextStyles\obj\Debug\TextStyles.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\TextStyles\obj\Debug\TextStyles.pdb
