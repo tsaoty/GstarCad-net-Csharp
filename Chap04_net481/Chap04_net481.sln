@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineTypes", "LineTypes\Line
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layers", "Layers\Layers.csproj", "{147FA338-99EE-4C5B-B6FC-DA6F03E289E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DimStyles", "DimStyles\DimStyles.csproj", "{C0454F42-C70A-44A2-BE06-14796F94DBC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,14 @@ Global
 		{147FA338-99EE-4C5B-B6FC-DA6F03E289E6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{147FA338-99EE-4C5B-B6FC-DA6F03E289E6}.Release|x64.ActiveCfg = Release|Any CPU
 		{147FA338-99EE-4C5B-B6FC-DA6F03E289E6}.Release|x64.Build.0 = Release|Any CPU
+		{C0454F42-C70A-44A2-BE06-14796F94DBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0454F42-C70A-44A2-BE06-14796F94DBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0454F42-C70A-44A2-BE06-14796F94DBC5}.Debug|x64.ActiveCfg = Debug|x64
+		{C0454F42-C70A-44A2-BE06-14796F94DBC5}.Debug|x64.Build.0 = Debug|x64
+		{C0454F42-C70A-44A2-BE06-14796F94DBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0454F42-C70A-44A2-BE06-14796F94DBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0454F42-C70A-44A2-BE06-14796F94DBC5}.Release|x64.ActiveCfg = Release|Any CPU
+		{C0454F42-C70A-44A2-BE06-14796F94DBC5}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
