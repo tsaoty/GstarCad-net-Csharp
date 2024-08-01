@@ -1,0 +1,6 @@
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\LineTypes\bin\x64\Debug\LineTypes.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\LineTypes\bin\x64\Debug\LineTypes.pdb
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\LineTypes\obj\x64\Debug\LineTypes.csproj.AssemblyReference.cache
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\LineTypes\obj\x64\Debug\LineTypes.csproj.CoreCompileInputs.cache
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\LineTypes\obj\x64\Debug\LineTypes.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\LineTypes\obj\x64\Debug\LineTypes.pdb

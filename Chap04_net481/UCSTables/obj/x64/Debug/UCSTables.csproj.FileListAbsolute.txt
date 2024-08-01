@@ -1,0 +1,8 @@
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\UCSTables\bin\x64\Debug\UCSTables.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\UCSTables\bin\x64\Debug\UCSTables.pdb
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\UCSTables\bin\x64\Debug\gsDotNetARX.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\UCSTables\bin\x64\Debug\gsDotNetARX.pdb
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\UCSTables\obj\x64\Debug\UCSTables.csproj.CoreCompileInputs.cache
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\UCSTables\obj\x64\Debug\UCSTables.csproj.CopyComplete
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\UCSTables\obj\x64\Debug\UCSTables.dll
+E:\061_GstarCAD-prog\01.gc.cs\GstarCadNetCsharp\Chap04_net481\UCSTables\obj\x64\Debug\UCSTables.pdb
